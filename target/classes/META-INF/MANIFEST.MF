@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spi
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: DOSI
+Implementation-Vendor-Id: fr.univbrest.dosi
+Build-Jdk: 1.8.0_191
+Implementation-URL: http://projects.spring.io/spring-boot/spi/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
